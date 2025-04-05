@@ -1,0 +1,20 @@
+**Job Description: Machine Learning Engineer Intern**  
+
+We are looking for a **Machine Learning Engineer Intern** to join our team and work on real-world AI applications. As an intern, you will collaborate with our data scientists and engineers to develop, test, and deploy machine learning models. You will gain hands-on experience in data preprocessing, model training, and optimization.  
+
+### **Responsibilities:**  
+- Assist in building and training machine learning models.  
+- Preprocess and clean datasets for analysis.  
+- Implement, test, and optimize ML algorithms.  
+- Collaborate with engineers to deploy models into production.  
+- Stay updated with the latest advancements in AI and ML.  
+
+
+### **Requirements:**  
+- Currently pursuing a degree in Computer Science, AI, or a related field.  
+- Knowledge of Python and ML frameworks (TensorFlow, PyTorch, Scikit-learn).  
+- Understanding of data structures, algorithms, and statistics.  
+- Familiarity with cloud platforms (AWS, GCP) is a plus.  
+- Strong problem-solving and analytical skills.  
+
+This is an excellent opportunity to gain hands-on experience and work on exciting AI-driven projects! 🚀
